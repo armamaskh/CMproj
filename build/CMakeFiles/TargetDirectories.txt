@@ -1,0 +1,14 @@
+C:/Users/Marsi/Desktop/CMproj/build/CMakeFiles/CMproj.dir
+C:/Users/Marsi/Desktop/CMproj/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marsi/Desktop/CMproj/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Marsi/Desktop/CMproj/build/task5/CMakeFiles/task5.dir
+C:/Users/Marsi/Desktop/CMproj/build/task5/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marsi/Desktop/CMproj/build/task4/CMakeFiles/task4.dir
+C:/Users/Marsi/Desktop/CMproj/build/task4/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marsi/Desktop/CMproj/build/task3/CMakeFiles/task3.dir
+C:/Users/Marsi/Desktop/CMproj/build/task3/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marsi/Desktop/CMproj/build/task2/CMakeFiles/task2.dir
+C:/Users/Marsi/Desktop/CMproj/build/task2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marsi/Desktop/CMproj/build/task1/CMakeFiles/task1.dir
+C:/Users/Marsi/Desktop/CMproj/build/task1/CMakeFiles/task1_exe.dir
+C:/Users/Marsi/Desktop/CMproj/build/task1/CMakeFiles/ALL_BUILD.dir
