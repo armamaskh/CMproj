@@ -1,0 +1,10 @@
+^C:\USERS\MARSI\DESKTOP\CMPROJ\BUILD\CMAKEFILES\6F754AEF8354580743ECF429BF8B021B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Marsi/Desktop/CMproj -BC:/Users/Marsi/Desktop/CMproj/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Marsi/Desktop/CMproj/build/CMproj.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
